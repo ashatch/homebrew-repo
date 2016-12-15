@@ -1,4 +1,4 @@
-class Icssh < Formula
+class Awsip < Formula
   desc "Find ip addresses of AWS resources"
   homepage "https://github.com/ashatch/awsip"
   url "https://github.com/ashatch/awsip/archive/v1.0.0.tar.gz"
