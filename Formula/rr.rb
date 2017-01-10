@@ -1,9 +1,9 @@
 class Rr < Formula
   desc "Remote run a script"
   homepage "https://github.com/ashatch/rr"
-  url "https://github.com/ashatch/rr/archive/1.0.0.tar.gz"
-  version "1.0.0"
-  sha256 "6b155b5ea89111da770aed41fc335c9e68585dd5c10085e097469fe94fcd8e71"
+  url "https://github.com/ashatch/rr/archive/v1.1.0.tar.gz"
+  version "1.1.0"
+  sha256 "17f88556e06daf470259e1125d85e33c13b3506508abec74d5be660a7555f34a"
 
   def install
     bin.install 'rr'
