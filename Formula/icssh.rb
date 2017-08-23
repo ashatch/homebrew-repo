@@ -1,9 +1,9 @@
 class Icssh < Formula
   desc "SSH over a cluster for iTerm"
   homepage "https://github.com/ashatch/icssh"
-  url "https://github.com/ashatch/icssh/archive/v1.0.1.tar.gz"
-  version "1.0.1"
-  sha256 "574c87ac71afcbb3d8bf751ee3e1171fcbe410c3c7130522e36f64448d9a18f4"
+  url "https://github.com/ashatch/icssh/archive/v1.0.2.tar.gz"
+  version "1.0.2"
+  sha256 "d55fc16416036dcc1debd253adb226186ab492720324a5d039512470191904dd"
 
   def install
     bin.install 'icssh'
